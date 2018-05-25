@@ -1,0 +1,11 @@
+/Users/guilhermemarcial/RiderProjects/Teste/StateMachineViagem/StateMachineViagem/bin/Debug/netcoreapp2.0/StateMachineViagem.deps.json
+/Users/guilhermemarcial/RiderProjects/Teste/StateMachineViagem/StateMachineViagem/bin/Debug/netcoreapp2.0/StateMachineViagem.runtimeconfig.json
+/Users/guilhermemarcial/RiderProjects/Teste/StateMachineViagem/StateMachineViagem/bin/Debug/netcoreapp2.0/StateMachineViagem.runtimeconfig.dev.json
+/Users/guilhermemarcial/RiderProjects/Teste/StateMachineViagem/StateMachineViagem/bin/Debug/netcoreapp2.0/StateMachineViagem.dll
+/Users/guilhermemarcial/RiderProjects/Teste/StateMachineViagem/StateMachineViagem/bin/Debug/netcoreapp2.0/StateMachineViagem.pdb
+/Users/guilhermemarcial/RiderProjects/Teste/StateMachineViagem/StateMachineViagem/obj/Debug/netcoreapp2.0/StateMachineViagem.csproj.CoreCompileInputs.cache
+/Users/guilhermemarcial/RiderProjects/Teste/StateMachineViagem/StateMachineViagem/obj/Debug/netcoreapp2.0/StateMachineViagem.AssemblyInfoInputs.cache
+/Users/guilhermemarcial/RiderProjects/Teste/StateMachineViagem/StateMachineViagem/obj/Debug/netcoreapp2.0/StateMachineViagem.AssemblyInfo.cs
+/Users/guilhermemarcial/RiderProjects/Teste/StateMachineViagem/StateMachineViagem/obj/Debug/netcoreapp2.0/StateMachineViagem.dll
+/Users/guilhermemarcial/RiderProjects/Teste/StateMachineViagem/StateMachineViagem/obj/Debug/netcoreapp2.0/StateMachineViagem.pdb
+/Users/guilhermemarcial/RiderProjects/Teste/StateMachineViagem/StateMachineViagem/obj/Debug/netcoreapp2.0/StateMachineViagem.csprojResolveAssemblyReference.cache

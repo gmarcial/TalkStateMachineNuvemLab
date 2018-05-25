@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0301f8bf-398e-41cb-95fb-4a78a2f81f8f" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ViagemStateMachine.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/StateMachineViagem/Poc/ViagemStateMachine.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="479">
+              <caret line="18" column="62" selection-start-line="18" selection-start-column="62" selection-end-line="18" selection-end-column="62" />
+              <folding>
+                <marker date="1527273789301" expanded="false" signature="6:56" ph="..." />
+                <marker date="1527273789301" expanded="true" signature="86:1399" ph="{...}" />
+                <marker date="1527273789301" expanded="true" signature="124:1397" ph="{...}" />
+                <marker date="1527273789301" expanded="true" signature="204:1391" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/StateMachineViagem/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="348">
+              <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+              <folding>
+                <marker date="1527285526058" expanded="true" signature="6:53" ph="..." />
+                <marker date="1527285526058" expanded="true" signature="83:435" ph="{...}" />
+                <marker date="1527285526058" expanded="true" signature="103:433" ph="{...}" />
+                <marker date="1527285526058" expanded="true" signature="149:427" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Viagem.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/StateMachineViagem/Poc/Viagem.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="17" column="58" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="58" />
+              <folding>
+                <marker date="1527277895574" expanded="false" signature="6:104" ph="..." />
+                <marker date="1527277895574" expanded="true" signature="134:2095" ph="{...}" />
+                <marker date="1527277895574" expanded="true" signature="160:2093" ph="{...}" />
+                <marker date="1527277895574" expanded="true" signature="445:597" ph="{...}" />
+                <marker date="1527277895574" expanded="true" signature="629:783" ph="{...}" />
+                <marker date="1527277895574" expanded="true" signature="827:993" ph="{...}" />
+                <marker date="1527277895574" expanded="true" signature="1036:1200" ph="{...}" />
+                <marker date="1527277895574" expanded="true" signature="1244:1410" ph="{...}" />
+                <marker date="1527277895574" expanded="true" signature="1445:1593" ph="{...}" />
+                <marker date="1527277895574" expanded="true" signature="1625:1767" ph="{...}" />
+                <marker date="1527277895574" expanded="true" signature="1848:2087" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Viagem.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/StateMachineViagem/Antigo/Viagem.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="842">
+              <caret line="68" column="1" selection-start-line="68" selection-start-column="1" selection-end-line="68" selection-end-column="1" />
+              <folding>
+                <marker date="1527277936894" expanded="false" signature="6:106" ph="..." />
+                <marker date="1527277936894" expanded="true" signature="143:2032" ph="{...}" />
+                <marker date="1527277936894" expanded="true" signature="169:2030" ph="{...}" />
+                <marker date="1527277936894" expanded="true" signature="379:558" ph="{...}" />
+                <marker date="1527277936894" expanded="true" signature="590:753" ph="{...}" />
+                <marker date="1527277936894" expanded="true" signature="797:985" ph="{...}" />
+                <marker date="1527277936894" expanded="true" signature="1028:1191" ph="{...}" />
+                <marker date="1527277936894" expanded="true" signature="1235:1410" ph="{...}" />
+                <marker date="1527277936894" expanded="true" signature="1445:1601" ph="{...}" />
+                <marker date="1527277936894" expanded="true" signature="1633:1833" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/StateMachineViagem/Poc/ViagemStateMachine.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/StateMachineViagem/Poc/Viagem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/StateMachineViagem/Helpers/ViagemStateEnumToString.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/StateMachineViagem/Antigo/Viagem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/StateMachineViagem/Configuration/ViagemState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/StateMachineViagem/Configuration/ViagemTriggers.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/StateMachineViagem/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/59DC7FCA-7EFC-4989-B683-B06BACDF2A88/22/4a1b4393/StateMachine`2.cs" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/StateMachineViagem/ViagemTriggers.cs" />
+        <option value="$PROJECT_DIR$/StateMachineViagem/ViagemStateMachine.cs" />
+        <option value="$PROJECT_DIR$/StateMachineViagem/Viagem.cs" />
+        <option value="$PROJECT_DIR$/StateMachineViagem/Antigo/ViagemStateMachine.cs" />
+        <option value="$PROJECT_DIR$/StateMachineViagem/ViagemStates.cs" />
+        <option value="$PROJECT_DIR$/StateMachineViagem/Configuration/ViagemState.cs" />
+        <option value="$PROJECT_DIR$/StateMachineViagem/Configuration/ViagemTriggers.cs" />
+        <option value="$PROJECT_DIR$/StateMachineViagem/Helpers/ViagemStateEnumToString.cs" />
+        <option value="$PROJECT_DIR$/StateMachineViagem/Poc/Viagem.cs" />
+        <option value="$PROJECT_DIR$/StateMachineViagem/Antigo/Viagem.cs" />
+        <option value="$PROJECT_DIR$/StateMachineViagem/Program.cs" />
+        <option value="$PROJECT_DIR$/StateMachineViagem/Poc/ViagemStateMachine.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="StateMachineViagem (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="StateMachineViagem (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="StateMachineViagem" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="StateMachineViagem (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="StateMachineViagem" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Configuration" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="StateMachineViagem (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="StateMachineViagem" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Poc" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/StateMachineViagem/bin/Debug/netcoreapp2.0/StateMachineViagem.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/StateMachineViagem" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/StateMachineViagem/StateMachineViagem.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
+      <browser url="http://localhost:5000" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0301f8bf-398e-41cb-95fb-4a78a2f81f8f" name="Default" comment="" />
+      <created>1524237965485</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1524237965485</updated>
+      <workItem from="1524237967060" duration="4765000" />
+      <workItem from="1524256944324" duration="211000" />
+      <workItem from="1527269723476" duration="6733000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11709000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32969698" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.3283582" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.19116081" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="7" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3273632" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" isUnityUI="false" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/StateMachineViagem/Program.cs</url>
+          <line>13</line>
+          <properties documentPath="$PROJECT_DIR$/StateMachineViagem/Program.cs" initialLine="13">
+            <startOffsets>
+              <startOffset value="336" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="356" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="7" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/StateMachineViagem/Poc/ViagemStateMachine.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+          <folding>
+            <marker date="1527273789301" expanded="false" signature="6:56" ph="..." />
+            <marker date="1527273789301" expanded="true" signature="86:1399" ph="{...}" />
+            <marker date="1527273789301" expanded="true" signature="124:1397" ph="{...}" />
+            <marker date="1527273789301" expanded="true" signature="204:1391" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StateMachineViagem/Poc/Viagem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="57" column="15" selection-start-line="57" selection-start-column="15" selection-end-line="57" selection-end-column="15" />
+          <folding>
+            <marker date="1527277895574" expanded="false" signature="6:104" ph="..." />
+            <marker date="1527277895574" expanded="true" signature="134:2095" ph="{...}" />
+            <marker date="1527277895574" expanded="true" signature="160:2093" ph="{...}" />
+            <marker date="1527277895574" expanded="true" signature="445:597" ph="{...}" />
+            <marker date="1527277895574" expanded="true" signature="629:783" ph="{...}" />
+            <marker date="1527277895574" expanded="true" signature="827:993" ph="{...}" />
+            <marker date="1527277895574" expanded="true" signature="1036:1200" ph="{...}" />
+            <marker date="1527277895574" expanded="true" signature="1244:1410" ph="{...}" />
+            <marker date="1527277895574" expanded="true" signature="1445:1593" ph="{...}" />
+            <marker date="1527277895574" expanded="true" signature="1625:1767" ph="{...}" />
+            <marker date="1527277895574" expanded="true" signature="1848:2087" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StateMachineViagem/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <marker date="1527285526058" expanded="true" signature="6:53" ph="..." />
+            <marker date="1527285526058" expanded="true" signature="83:435" ph="{...}" />
+            <marker date="1527285526058" expanded="true" signature="103:433" ph="{...}" />
+            <marker date="1527285526058" expanded="true" signature="149:427" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StateMachineViagem/Poc/ViagemStateMachine.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+          <folding>
+            <marker date="1527273789301" expanded="false" signature="6:56" ph="..." />
+            <marker date="1527273789301" expanded="true" signature="86:1399" ph="{...}" />
+            <marker date="1527273789301" expanded="true" signature="124:1397" ph="{...}" />
+            <marker date="1527273789301" expanded="true" signature="204:1391" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StateMachineViagem/Poc/Viagem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="57" column="15" selection-start-line="57" selection-start-column="15" selection-end-line="57" selection-end-column="15" />
+          <folding>
+            <marker date="1527277895574" expanded="false" signature="6:104" ph="..." />
+            <marker date="1527277895574" expanded="true" signature="134:2095" ph="{...}" />
+            <marker date="1527277895574" expanded="true" signature="160:2093" ph="{...}" />
+            <marker date="1527277895574" expanded="true" signature="445:597" ph="{...}" />
+            <marker date="1527277895574" expanded="true" signature="629:783" ph="{...}" />
+            <marker date="1527277895574" expanded="true" signature="827:993" ph="{...}" />
+            <marker date="1527277895574" expanded="true" signature="1036:1200" ph="{...}" />
+            <marker date="1527277895574" expanded="true" signature="1244:1410" ph="{...}" />
+            <marker date="1527277895574" expanded="true" signature="1445:1593" ph="{...}" />
+            <marker date="1527277895574" expanded="true" signature="1625:1767" ph="{...}" />
+            <marker date="1527277895574" expanded="true" signature="1848:2087" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StateMachineViagem/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="11" column="56" selection-start-line="11" selection-start-column="56" selection-end-line="11" selection-end-column="56" />
+          <folding>
+            <marker date="1527285526058" expanded="true" signature="6:53" ph="..." />
+            <marker date="1527285526058" expanded="true" signature="83:435" ph="{...}" />
+            <marker date="1527285526058" expanded="true" signature="103:433" ph="{...}" />
+            <marker date="1527285526058" expanded="true" signature="149:427" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/59DC7FCA-7EFC-4989-B683-B06BACDF2A88/99/8c143270/StateMachine`2.cs" />
+    <entry file="file://$PROJECT_DIR$/StateMachineViagem/Antigo/ViagemStateMachine.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StateMachineViagem/Helpers/ViagemStateEnumToString.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+          <folding>
+            <marker date="1527276260161" expanded="false" signature="6:73" ph="..." />
+            <marker date="1527276260161" expanded="true" signature="111:1003" ph="{...}" />
+            <marker date="1527276260161" expanded="true" signature="154:1001" ph="{...}" />
+            <marker date="1527276260161" expanded="true" signature="313:885" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StateMachineViagem/Configuration/ViagemState.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="27" />
+          <folding>
+            <marker date="1527273796906" expanded="true" signature="42:337" ph="{...}" />
+            <marker date="1527273796906" expanded="true" signature="72:335" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StateMachineViagem/Configuration/ViagemTriggers.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+          <folding>
+            <marker date="1527273795749" expanded="true" signature="42:298" ph="{...}" />
+            <marker date="1527273795749" expanded="true" signature="75:296" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StateMachineViagem/Antigo/Viagem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="842">
+          <caret line="68" column="1" selection-start-line="68" selection-start-column="1" selection-end-line="68" selection-end-column="1" />
+          <folding>
+            <marker date="1527277936894" expanded="false" signature="6:106" ph="..." />
+            <marker date="1527277936894" expanded="true" signature="143:2032" ph="{...}" />
+            <marker date="1527277936894" expanded="true" signature="169:2030" ph="{...}" />
+            <marker date="1527277936894" expanded="true" signature="379:558" ph="{...}" />
+            <marker date="1527277936894" expanded="true" signature="590:753" ph="{...}" />
+            <marker date="1527277936894" expanded="true" signature="797:985" ph="{...}" />
+            <marker date="1527277936894" expanded="true" signature="1028:1191" ph="{...}" />
+            <marker date="1527277936894" expanded="true" signature="1235:1410" ph="{...}" />
+            <marker date="1527277936894" expanded="true" signature="1445:1601" ph="{...}" />
+            <marker date="1527277936894" expanded="true" signature="1633:1833" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/59DC7FCA-7EFC-4989-B683-B06BACDF2A88/22/4a1b4393/StateMachine`2.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="577">
+          <caret line="421" column="63" selection-start-line="421" selection-start-column="63" selection-end-line="421" selection-end-column="63" />
+          <folding>
+            <marker date="1527270291408" expanded="true" signature="0:317" ph="/* Decompiled with JetBrains decompiler ... */" />
+            <marker date="1527270291408" expanded="false" signature="325:385" ph="..." />
+            <marker date="1527270291408" expanded="true" signature="406:58379" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="411:708" ph="/// Models behaviour as transitions between a finite set of states. ... " />
+            <marker date="1527270291408" expanded="true" signature="754:58377" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="1568:1871" ph="/// Construct a state machine with external state storage. ... " />
+            <marker date="1527270291408" expanded="true" signature="1952:2175" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="2181:2292" ph="///Construct a state machine. ... " />
+            <marker date="1527270291408" expanded="true" signature="2337:2651" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="2466:2504" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="2722:2867" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="2738:2792" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="2810:2861" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="2988:3087" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="3004:3081" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="3173:3262" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="3189:3256" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="3358:3738" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="3523:3698" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="3744:4064" ph="/// Begin configuration of the entry/exit actions and allowed transitions ... " />
+            <marker date="1527270291408" expanded="true" signature="4149:4354" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="4360:4849" ph="/// Transition from the current state via the specified trigger. ... " />
+            <marker date="1527270291408" expanded="true" signature="4888:4934" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="4940:5564" ph="/// Transition from the current state via the specified trigger. ... " />
+            <marker date="1527270291408" expanded="true" signature="5673:5861" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="5867:6628" ph="/// Transition from the current state via the specified trigger. ... " />
+            <marker date="1527270291408" expanded="true" signature="6763:6973" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="6979:7875" ph="/// Transition from the current state via the specified trigger. ... " />
+            <marker date="1527270291408" expanded="true" signature="8036:8268" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="8339:9302" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="8708:8815" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="8826:9296" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="9308:9555" ph="/// Override the default behaviour of throwing an exception when an unhandled trigger ... " />
+            <marker date="1527270291408" expanded="true" signature="9639:9828" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="9834:10102" ph="/// Determine if the state machine is in the supplied state. ... " />
+            <marker date="1527270291408" expanded="true" signature="10142:10215" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="10221:10481" ph="/// Returns true if &lt;paramref name=&quot;trigger&quot; /&gt; can be fired ... " />
+            <marker date="1527270291408" expanded="true" signature="10523:10595" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="10601:10763" ph="///A human-readable representation of the state machine. ... " />
+            <marker date="1527270291408" expanded="true" signature="10801:11067" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="11073:11468" ph="/// Specify the arguments that must be supplied when a specific trigger is fired. ... " />
+            <marker date="1527270291408" expanded="true" signature="11585:11912" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="11918:12394" ph="/// Specify the arguments that must be supplied when a specific trigger is fired. ... " />
+            <marker date="1527270291408" expanded="true" signature="12525:12866" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="12872:13428" ph="/// Specify the arguments that must be supplied when a specific trigger is fired. ... " />
+            <marker date="1527270291408" expanded="true" signature="13573:13928" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="14033:14305" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="14392:14542" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="14628:16014" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="14767:15032" ph="///Construct a transition. ... " />
+            <marker date="1527270291408" expanded="true" signature="15109:15230" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="15316:15395" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="15336:15387" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="15484:15568" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="15504:15560" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="15668:15748" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="15688:15740" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="15756:15868" ph="/// True if the transition is a re-entry, i.e. the identity transition. ... " />
+            <marker date="1527270291408" expanded="true" signature="15896:16008" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="15916:16000" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="16060:16641" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="16220:16298" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="16329:16409" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="16349:16401" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="16448:16528" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="16468:16520" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="16741:17169" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="16922:16979" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="17085:17163" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="17204:17256" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="17364:45166" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="17811:18115" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="18123:18456" ph="/// Accept the specified trigger and transition to the destination state. ... " />
+            <marker date="1527270291408" expanded="true" signature="18569:18709" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="18717:19170" ph="/// Accept the specified trigger and transition to the destination state. ... " />
+            <marker date="1527270291408" expanded="true" signature="19303:19452" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="19460:19999" ph="/// Accept the specified trigger, execute exit actions and re-execute entry actions. ... " />
+            <marker date="1527270291408" expanded="true" signature="20094:20193" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="20201:20860" ph="/// Accept the specified trigger, execute exit actions and re-execute entry actions. ... " />
+            <marker date="1527270291408" expanded="true" signature="20975:21083" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="21091:21300" ph="/// Ignore the specified trigger when in the configured state. ... " />
+            <marker date="1527270291408" expanded="true" signature="21388:21502" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="21510:21876" ph="/// Ignore the specified trigger when in the configured state, if the guard ... " />
+            <marker date="1527270291408" expanded="true" signature="21984:22265" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="22273:22515" ph="/// Specify an action that will execute when transitioning into ... " />
+            <marker date="1527270291408" expanded="true" signature="22606:22801" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="22809:23088" ph="/// Specify an action that will execute when transitioning into ... " />
+            <marker date="1527270291408" expanded="true" signature="23222:23516" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="23524:23889" ph="/// Specify an action that will execute when transitioning into ... " />
+            <marker date="1527270291408" expanded="true" signature="24002:24210" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="24218:24620" ph="/// Specify an action that will execute when transitioning into ... " />
+            <marker date="1527270291408" expanded="true" signature="24776:25079" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="25087:25571" ph="/// Specify an action that will execute when transitioning into ... " />
+            <marker date="1527270291408" expanded="true" signature="25749:25986" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="25994:26478" ph="/// Specify an action that will execute when transitioning into ... " />
+            <marker date="1527270291408" expanded="true" signature="26699:27182" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="27190:27757" ph="/// Specify an action that will execute when transitioning into ... " />
+            <marker date="1527270291408" expanded="true" signature="27956:28222" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="28230:28797" ph="/// Specify an action that will execute when transitioning into ... " />
+            <marker date="1527270291408" expanded="true" signature="29039:29580" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="29588:30237" ph="/// Specify an action that will execute when transitioning into ... " />
+            <marker date="1527270291408" expanded="true" signature="30457:30752" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="30760:31409" ph="/// Specify an action that will execute when transitioning into ... " />
+            <marker date="1527270291408" expanded="true" signature="31672:32271" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="32279:32520" ph="/// Specify an action that will execute when transitioning from ... " />
+            <marker date="1527270291408" expanded="true" signature="32609:32800" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="32808:33086" ph="/// Specify an action that will execute when transitioning from ... " />
+            <marker date="1527270291408" expanded="true" signature="33218:33428" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="33436:34032" ph="/// Sets the superstate that the configured state is a substate of. ... " />
+            <marker date="1527270291408" expanded="true" signature="34125:34395" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="34403:34825" ph="/// Accept the specified trigger and transition to the destination state, calculated ... " />
+            <marker date="1527270291408" expanded="true" signature="34959:35106" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="35114:35618" ph="/// Accept the specified trigger and transition to the destination state, calculated ... " />
+            <marker date="1527270291408" expanded="true" signature="35817:35971" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="35979:36566" ph="/// Accept the specified trigger and transition to the destination state, calculated ... " />
+            <marker date="1527270291408" expanded="true" signature="36786:36947" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="36955:37624" ph="/// Accept the specified trigger and transition to the destination state, calculated ... " />
+            <marker date="1527270291408" expanded="true" signature="37865:38033" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="38041:38583" ph="/// Accept the specified trigger and transition to the destination state, calculated ... " />
+            <marker date="1527270291408" expanded="true" signature="38737:38985" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="38993:39617" ph="/// Accept the specified trigger and transition to the destination state, calculated ... " />
+            <marker date="1527270291408" expanded="true" signature="39836:40262" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="40270:40977" ph="/// Accept the specified trigger and transition to the destination state, calculated ... " />
+            <marker date="1527270291408" expanded="true" signature="41217:41701" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="41709:42498" ph="/// Accept the specified trigger and transition to the destination state, calculated ... " />
+            <marker date="1527270291408" expanded="true" signature="42759:43301" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="43370:43573" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="43696:43804" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="43947:44252" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="44406:44561" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="44735:45160" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="45172:45279" ph="/// Associates configured parameters with an underlying trigger value. ... " />
+            <marker date="1527270291408" expanded="true" signature="45327:46592" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="45439:45681" ph="///Create a configured trigger. ... " />
+            <marker date="1527270291408" expanded="true" signature="45773:45967" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="45975:46079" ph="/// Gets the underlying trigger value that has been configured. ... " />
+            <marker date="1527270291408" expanded="true" signature="46109:46199" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="46129:46191" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="46207:46389" ph="/// Ensure that the supplied arguments are compatible with those configured for this ... " />
+            <marker date="1527270291408" expanded="true" signature="46441:46586" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="46598:46745" ph="///A configured trigger with one required argument. ... " />
+            <marker date="1527270291408" expanded="true" signature="46846:47146" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="46859:47011" ph="///Create a configured trigger. ... " />
+            <marker date="1527270291408" expanded="true" signature="47124:47140" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="47152:47377" ph="///A configured trigger with two required arguments. ... " />
+            <marker date="1527270291408" expanded="true" signature="47485:47801" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="47498:47650" ph="///Create a configured trigger. ... " />
+            <marker date="1527270291408" expanded="true" signature="47779:47795" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="47807:48110" ph="///A configured trigger with three required arguments. ... " />
+            <marker date="1527270291408" expanded="true" signature="48225:48557" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="48238:48390" ph="///Create a configured trigger. ... " />
+            <marker date="1527270291408" expanded="true" signature="48535:48551" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="48651:48967" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="48761:48777" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="48883:48961" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="49061:49592" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="49268:49396" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="49502:49586" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="49632:58373" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="50825:50870" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="50917:51056" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="51169:51398" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="51517:52577" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="51673:51793" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="52697:53060" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="52931:53049" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="53162:53321" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="53412:53560" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="53666:54155" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="53809:53888" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="53901:54147" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="54233:54709" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="54376:54443" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="54456:54701" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="54823:55247" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="55340:55656" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="55761:56271" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="55956:56214" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="56347:56498" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="56367:56422" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="56434:56490" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="56535:56613" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="56555:56605" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="56705:56874" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="56916:57183" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="57229:57431" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="57485:58367" ph="{...}" />
+            <marker date="1527270291408" expanded="true" signature="57505:58359" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StateMachineViagem/Poc/Viagem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="58" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="58" />
+          <folding>
+            <marker date="1527277895574" expanded="false" signature="6:104" ph="..." />
+            <marker date="1527277895574" expanded="true" signature="134:2095" ph="{...}" />
+            <marker date="1527277895574" expanded="true" signature="160:2093" ph="{...}" />
+            <marker date="1527277895574" expanded="true" signature="445:597" ph="{...}" />
+            <marker date="1527277895574" expanded="true" signature="629:783" ph="{...}" />
+            <marker date="1527277895574" expanded="true" signature="827:993" ph="{...}" />
+            <marker date="1527277895574" expanded="true" signature="1036:1200" ph="{...}" />
+            <marker date="1527277895574" expanded="true" signature="1244:1410" ph="{...}" />
+            <marker date="1527277895574" expanded="true" signature="1445:1593" ph="{...}" />
+            <marker date="1527277895574" expanded="true" signature="1625:1767" ph="{...}" />
+            <marker date="1527277895574" expanded="true" signature="1848:2087" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StateMachineViagem/Poc/ViagemStateMachine.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="18" column="62" selection-start-line="18" selection-start-column="62" selection-end-line="18" selection-end-column="62" />
+          <folding>
+            <marker date="1527273789301" expanded="false" signature="6:56" ph="..." />
+            <marker date="1527273789301" expanded="true" signature="86:1399" ph="{...}" />
+            <marker date="1527273789301" expanded="true" signature="124:1397" ph="{...}" />
+            <marker date="1527273789301" expanded="true" signature="204:1391" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StateMachineViagem/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+          <folding>
+            <marker date="1527285526058" expanded="true" signature="6:53" ph="..." />
+            <marker date="1527285526058" expanded="true" signature="83:435" ph="{...}" />
+            <marker date="1527285526058" expanded="true" signature="103:433" ph="{...}" />
+            <marker date="1527285526058" expanded="true" signature="149:427" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
